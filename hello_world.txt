@@ -1,0 +1,1 @@
+Hello, this is a test to see how the Working Tree, Staging and Committing functions!
